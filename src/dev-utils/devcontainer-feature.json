@@ -1,6 +1,6 @@
 {
   "id": "dev-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "Development Utilities",
   "description": "Essential development utilities including vim, nano, curl, wget, git extras and development tools.",
   "installsAfter": [
